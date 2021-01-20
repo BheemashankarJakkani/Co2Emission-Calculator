@@ -16,17 +16,16 @@ Give examples
 ```
 
 ### Installation
-Download the project .zip file from  [Project Files](https://sap-my.sharepoint.com/:f:/p/alexander_thierfelder/Erb_I5-3YjBBiHfKq7qOUt0BhDrsJG5g5IPaY8isilJ44A)
+1.Download the project .zip file from  [Project Files](https://sap-my.sharepoint.com/:f:/p/alexander_thierfelder/Erb_I5-3YjBBiHfKq7qOUt0BhDrsJG5g5IPaY8isilJ44A)
 and Extract the Project files to Deskotp.
 
 ![1Extarctedfile](./images/1Extractedfile.png)
 
-
+2.Open Terminal and Navigate to source folder
 ```
-Give the example
+cd Desktop/Co2Emission/src
 ```
-
-And repeat
+![1Extarctedfile](./images/2Navigate.png)
 
 ```
 until finished
