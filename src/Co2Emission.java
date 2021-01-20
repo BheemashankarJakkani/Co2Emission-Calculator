@@ -108,7 +108,7 @@ public class Co2Emission{
              }
          }
          if(flag==0){
-             System.out.println("Invalid Command: transportation-method not exit");
+             System.out.println("Invalid Command: transportation-method not exist");
              return;
          }
      }
