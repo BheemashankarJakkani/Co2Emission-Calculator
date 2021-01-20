@@ -54,6 +54,16 @@ $ ./co2-calculator --transportation-method medium-diesel-car --distance 15 --uni
 ![out1](./images/out1.png)
 
 
+### Test Scenario-2:
+
+```
+$ ./co2-calculator --distance 1800.5 --transportation-method large-petrol-car
+
+```
+### Output-2:
+![out1](./images/out2.png)
+
+
 
 ## Authors
 
