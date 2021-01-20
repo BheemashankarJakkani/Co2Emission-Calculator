@@ -82,11 +82,20 @@ $ ./co2-calculator --transportation-method train --distance 14500 --unit-of-dist
 ![out3](./images/out3b.png)
 
 
+## Test Scenario-4:Named parameters can be put in any order and either use a space ( ) or equal sign ( = ) between key and value.
+
+```
+$ ./co2-calculator --unit-of-distance=km --distance 15 --transportation-method=medium-diesel-car
+
+```
+### Output-4:
+![out4](./images/out4.png)
 
 
 
 
-## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
+## Author
+
+ **BHEEMASHANKAR JAKKANI**
