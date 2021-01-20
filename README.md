@@ -3,7 +3,7 @@
 
 ## Installation
 
-To Execute this JAVA Application should be pre-installed in the System.
+To Execute this Application JAVA should be pre-installed in the System.to install java follow these  [link](https://www.java.com/en/download/help/download_options.html)
 
 ```bash
 
