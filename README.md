@@ -4,15 +4,16 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-Your task is to create a program that returns the amount of CO2-equivalent that will be caused when traveling a given distance using a
+Task is to create a program that returns the amount of CO2-equivalent that will be caused when traveling a given distance using a
 given transportation method.
 
 ### Prerequisites
 To Execute this Application JAVA should be pre-installed in the System,
 to install java follow these  [link](https://www.java.com/en/download/help/download_options.html)
 
+Check Whether java installed or not with fallowing command.
 ```
-Give examples
+java -version
 ```
 
 ### Installation
