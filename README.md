@@ -44,7 +44,7 @@ The tool can be called with a numeric distance , a unit-of-distance (kilometer k
 method.
 Named parameters can be put in any order and either use a space ( ) or equal sign ( = ) between key and value.
 
-### Test Scenario-1:
+## Test Scenario-1:
 
 ```
 $ ./co2-calculator --transportation-method medium-diesel-car --distance 15 --unit-of-distance km
@@ -54,14 +54,35 @@ $ ./co2-calculator --transportation-method medium-diesel-car --distance 15 --uni
 ![out1](./images/out1.png)
 
 
-### Test Scenario-2:
+## Test Scenario-2:
 
 ```
 $ ./co2-calculator --distance 1800.5 --transportation-method large-petrol-car
 
 ```
 ### Output-2:
-![out1](./images/out2.png)
+![out2](./images/out2.png)
+
+
+## Test Scenario-3:the amount of CO2-equivalent in kilogram kg or gram g.
+
+```
+$ ./co2-calculator --transportation-method train --distance 14500 --unit-of-distance m
+
+```
+### Output-3a:the amount of CO2-equivalent in gram g.
+![out3](./images/out3a.png)
+
+
+```
+$ ./co2-calculator --transportation-method train --distance 14500 --unit-of-distance m --output kg
+
+```
+### Output-3b:the amount of CO2-equivalent in kg.
+![out3](./images/out3b.png)
+
+
+
 
 
 
