@@ -112,6 +112,25 @@ $ ./co2-calculator --transportation-method train --distance dhgd --unit-of-dista
 ![out6](./images/out6.png)
 
 
+## Test Scenario-7:when Invalid unit-of-distance value Passed.
+
+```
+$ ./co2-calculator --transportation-method train --distance 15 --unit-of-distance kg
+
+```
+### Output-7:Invalid Command:Invalid unit-of-distance parameter
+![out7](./images/out7.png)
+
+
+## Test Scenario-8:when Invalid ouput value is Passed.
+
+```
+$ ./co2-calculator --transportation-method train --distance 15 --unit-of-distance km --output km
+
+```
+### Output-8:Invalid Command: Invalid Command:Invalid output parameter
+![out8](./images/out8.png)
+
 
 
 
