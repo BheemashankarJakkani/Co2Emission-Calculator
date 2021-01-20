@@ -142,6 +142,16 @@ $ ./co2-calculator
 ![out9](./images/out9.png)
 
 
+## Test Scenario-10:To terminate the Tool Enter (q or quit or Q or QUIT ).
+
+```
+$ ./co2-calculator quit
+
+```
+### Output-10:Terminates the Tool from Execution.
+![out10](./images/out10.png)
+
+
 ## Author
 
  **BHEEMASHANKAR JAKKANI**
