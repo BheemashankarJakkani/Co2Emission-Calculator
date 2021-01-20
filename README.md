@@ -3,9 +3,10 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager.
 
 ```bash
-pip install foobar
+
 ```
-![Extracted File](/Co2Emission-Calculator/images/1Etractedfile.png)
+<img src="./images/1Etractedfile.png" alt="My cool logo"/>
+# My cool project and above is the logo of it
