@@ -92,6 +92,25 @@ $ ./co2-calculator --unit-of-distance=km --distance 15 --transportation-method=m
 ![out4](./images/out4.png)
 
 
+## Test Scenario-5:when Non-Existing trasportation-method value is Passed.
+
+```
+$ ./co2-calculator --transportation-method flight --distance 15 --unit-of-distance km
+
+```
+### Output-5:Invalid Command: transportation-method not exist
+![out5](./images/out5.png)
+
+
+## Test Scenario-6:when Non-numeric distance value is Passed.
+
+```
+$ ./co2-calculator --transportation-method train --distance dhgd --unit-of-distance km
+
+```
+### Output-6:Invalid Command: Non-Number value passed for distance
+![out6](./images/out6.png)
+
 
 
 
