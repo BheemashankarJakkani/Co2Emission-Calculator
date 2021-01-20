@@ -27,11 +27,15 @@ cd Desktop/Co2Emission/src
 ```
 ![2Navigate](./images/2Navigate.png)
 
+## Compile
+We have two java class/Files 1.class Transportation ie Transportation.java and 2.class Co2Emission.  ie Co2Emission.java...
+We neeed to compile both the Files and Run the Main Class ie class Co2Emmision.
 ```
-until finished
+javac Transportation.java
+javac Co2Emission.java
+java Co2Emission
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
+![3Compile](./images/3Compile.png)
 
 ## Running the tests
 
