@@ -1,6 +1,6 @@
 # Co2Emission-Calculator
 
-One Paragraph of project description goes here
+Co2Emission-Calculator Tool Developed in Java
 
 ## Getting Started
 
