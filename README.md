@@ -25,7 +25,7 @@ and Extract the Project files to Deskotp.
 ```
 cd Desktop/Co2Emission/src
 ```
-![1Extarctedfile](./images/2Navigate.png)
+![2Navigate](./images/2Navigate.png)
 
 ```
 until finished
