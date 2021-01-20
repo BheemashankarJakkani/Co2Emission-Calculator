@@ -1,7 +1,3 @@
-
-![stack Overflow](./images/1Extractedfile.png)
-
-
 # Co2Emission-Calculator
 
 One Paragraph of project description goes here
@@ -15,13 +11,17 @@ given transportation method.
 To Execute this Application JAVA should be pre-installed in the System,
 to install java follow these  [link](https://www.java.com/en/download/help/download_options.html)
 
+
+![1Extarctedfile](./images/1Extractedfile.png)
+
+
 ```
 Give examples
 ```
 
 ### Installation
 Download the project .zip file from  [Project Files](https://sap-my.sharepoint.com/:f:/p/alexander_thierfelder/Erb_I5-3YjBBiHfKq7qOUt0BhDrsJG5g5IPaY8isilJ44A)
-
+and Extract the Project files to Deskotp
 ```
 Give the example
 ```
