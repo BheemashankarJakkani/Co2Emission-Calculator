@@ -132,6 +132,14 @@ $ ./co2-calculator --transportation-method train --distance 15 --unit-of-distanc
 ![out8](./images/out8.png)
 
 
+## Test Scenario-9:When Empty.
+
+```
+$ ./co2-calculator 
+
+```
+### Output-9:It asks again for Parameter Parsing (I Wrote Custom CLI Script to handle Empty Condition).
+![out9](./images/out9.png)
 
 
 ## Author
